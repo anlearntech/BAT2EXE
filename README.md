@@ -3,7 +3,7 @@ Bat To Exe Converter can convert BAT (.bat) script files to the EXE (.exe) forma
 
 B2E download mirror
 
-http://www.f2ko.de/en/b2e.php
+http://www.f2ko.de/en/b2e.php (currently not working)
 
 	> md5sum Bat_To_Exe_Converter.zip
 	b7951aba3e2b005a87859b40c0f7153a  Bat_To_Exe_Converter.zip
