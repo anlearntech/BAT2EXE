@@ -1,6 +1,6 @@
 # B2E
 Bat To Exe Converter can convert BAT (.bat) script files to the EXE (.exe) format.
-### Add a template to make PortableAppsLauncher-compatible exe, should the portable exe does not launch in the right place, or need parameters to run correctly. BAT from Thorium AVX2 for Windows (https://thorium.rocks/), thanks to Alex313031 (https://github.com/Alex313031/)
+#### Add a template to make PortableAppsLauncher-compatible exe, should the portable exe does not launch in the right place, or need parameters to run correctly. BAT from Thorium AVX2 for Windows (https://thorium.rocks/), thanks to Alex313031 (https://github.com/Alex313031/)
 
 B2E download mirror
 
